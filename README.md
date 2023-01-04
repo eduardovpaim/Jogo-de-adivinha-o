@@ -1,1 +1,1 @@
-# Jogo-de-adivinha-o
+Só um joguinho de adivinhação, tente acertar o numero!
